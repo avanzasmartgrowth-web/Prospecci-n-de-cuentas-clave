@@ -1,0 +1,6 @@
+{
+  "name": "Propuesta Prospección B2B - AvanzaSmart",
+  "description": "Infraestructura de prospección B2B con IA para generar conversaciones nuevas con tomadores de decisión.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
